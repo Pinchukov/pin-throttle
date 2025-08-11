@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pin Throttle 1.0.0\n"
+"Report-Msgid-Bugs-To: pinchukov.net@gmail.com\n"
+"POT-Creation-Date: 2025-08-10 00:00+0000\n"
+"PO-Revision-Date: 2025-08-10 15:00+0300\n"
+"Last-Translator: Mr. Pin × Perplexity.ai × Claude.ai <pinchukov.net@gmail.com>\n"
+"Language-Team: Russian <pinchukov.net@gmail.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Manual\n"
+
+#: includes/class-settings.php
+msgid "Pin Throttle Settings"
+msgstr "Настройки Pin Throttle"
+
+#: includes/class-settings.php
+msgid "Pin Throttle"
+msgstr "Pin Throttle"
+
+#: includes/class-settings.php
+msgid "Main Settings"
+msgstr "Основные настройки"
+
+#: includes/class-settings.php
+msgid "Configure throttling settings for your website."
+msgstr "Настройте параметры ограничения запросов для вашего сайта."
+
+#: includes/class-settings.php
+msgid "Requests per minute limit"
+msgstr "Лимит запросов в минуту"
+
+#: includes/class-settings.php
+msgid "Maximum number of requests allowed per minute from a single IP."
+msgstr "Максимальное количество запросов в минуту с одного IP."
+
+#: includes/class-settings.php
+msgid "Block time (minutes)"
+msgstr "Время блокировки (минуты)"
+
+#: includes/class-settings.php
+msgid "How long to show the \"try again later\" message (in minutes)."
+msgstr "Как долго показывать сообщение «попробуйте позже» (в минутах)."
+
+#: includes/class-settings.php
+msgid "Log to file"
+msgstr "Логировать в файл"
+
+#: includes/class-settings.php
+msgid "Enable file logging in addition to database logging"
+msgstr "Включить логирование в файл дополнительно к базе данных"
+
+#: includes/class-settings.php
+msgid "Auto cleanup (days)"
+msgstr "Автоочистка (дней)"
+
+#: includes/class-settings.php
+msgid "Automatically delete log entries older than this many days. Set to 0 to disable."
+msgstr "Автоматически удалять записи старше указанного количества дней. Установите 0 для отключения."
+
+#: includes/class-settings.php
+msgid "IP Whitelist"
+msgstr "Белый список IP"
+
+#: includes/class-settings.php
+msgid "IP addresses that should never be throttled (one per line)."
+msgstr "IP-адреса, которые никогда не должны ограничиваться (по одному на строку)."
+
+#: includes/class-settings.php
+msgid "Delete data on uninstall"
+msgstr "Удалять данные при удалении"
+
+#: includes/class-settings.php
+msgid "Delete all plugin data when uninstalling"
+msgstr "Удалять все данные плагина при деинсталляции"
+
+#: includes/class-settings.php
+msgid "Settings saved successfully!"
+msgstr "Настройки успешно сохранены!"
+
+#: includes/class-settings.php
+msgid "Quick Statistics"
+msgstr "Краткая статистика"
+
+#: includes/class-settings.php
+msgid "No data available yet."
+msgstr "Данные пока отсутствуют."
+
+#: includes/class-settings.php
+msgid "Total requests logged:"
+msgstr "Всего запросов записано:"
+
+#: includes/class-settings.php
+msgid "Blocked requests:"
+msgstr "Заблокировано запросов:"
+
+#: includes/class-settings.php
+msgid "Requests in last 24h:"
+msgstr "Запросов за последние 24 часа:"
+
+#: includes/class-throttler.php
+msgid "Too Many Requests"
+msgstr "Слишком много запросов"
+
+#: includes/class-throttler.php
+msgid "Too many requests. Please try again in %d minutes."
+msgstr "Слишком много запросов. Пожалуйста, попробуйте снова через %d минут."

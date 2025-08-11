@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pin Throttle 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-10 00:00+0000\n"
+"PO-Revision-Date: 2025-08-10 15:00+0300\n"
+"Last-Translator: Mr. Pin × Perplexity.ai × Claude.ai <pinchukov.net@gmail.com>\n"
+"Language-Team: Russian <pinchukov.net@gmail.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Manual\n"
+
+#: includes/class-settings.php
+msgid "Pin Throttle Settings"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Pin Throttle"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Main Settings"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Configure throttling settings for your website."
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Requests per minute limit"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Maximum number of requests allowed per minute from a single IP."
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Block time (minutes)"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "How long to show the \"try again later\" message (in minutes)."
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Log to file"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Enable file logging in addition to database logging"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Auto cleanup (days)"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Automatically delete log entries older than this many days. Set to 0 to disable."
+msgstr ""
+
+#: includes/class-settings.php
+msgid "IP Whitelist"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "IP addresses that should never be throttled (one per line)."
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Delete data on uninstall"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Delete all plugin data when uninstalling"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Settings saved successfully!"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Quick Statistics"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "No data available yet."
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Total requests logged:"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Blocked requests:"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Requests in last 24h:"
+msgstr ""
+
+#: includes/class-throttler.php
+msgid "Too Many Requests"
+msgstr ""
+
+#: includes/class-throttler.php
+msgid "Too many requests. Please try again in %d minutes."
+msgstr ""
