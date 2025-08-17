@@ -12,6 +12,8 @@
 
 ## Description
 
+A plugin that was not created out of a good life
+
 **Pin Throttle** is a lightweight and secure plugin that helps protect your WordPress site by limiting the number of requests from a single IP address within a minute. It's ideal for preventing abuse, bot traffic, and DDoS-like attacks without complex configuration.
 
 ### Key Features:
